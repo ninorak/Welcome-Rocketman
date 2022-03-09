@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Rowdies';
+    src: url('../fonts/Rowdies/Rowdies-Regular.eot');
+    src: url('../fonts/Rowdies/Rowdies-Regular.eot') format('embedded-opentype'),
+        url('../fonts/Rowdies/Rowdies-Regular.woff2') format('woff2'),
+        url('../fonts/Rowdies/Rowdies-Regular.woff') format('woff'),
+        url('../fonts/Rowdies/Rowdies-Regular.ttf format('truetype'),
+        url('../fonts/Rowdies/Rowdies-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

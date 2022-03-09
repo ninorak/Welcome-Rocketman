@@ -1,0 +1,32 @@
+body {
+    background-color: #000000;
+    padding-top: 94px;
+}
+.main-div {
+    width: 1154px;
+    margin: 0 auto;
+    margin-left: auto;
+  }
+h1 {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 800;
+    font-family: 'Rowdies', sans-serif;
+    line-height: 69.55px;
+    margin-bottom: 55px;
+    margin-left: 16px;
+}
+.drop-down {
+    font-size: 14px;
+    line-height: 17.07px;
+    padding: 16px 27px;
+    color: #ffffff;
+    height: 52px;
+    width: 100%;
+    background-color: #FE3B1F;
+    margin-bottom: 12px;
+}
+.drop-down img {
+    float: right;
+    margin-top: 10px;
+}

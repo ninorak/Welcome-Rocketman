@@ -1,0 +1,12 @@
+body {
+    background-color: #000000;
+    padding-top: 444px;
+}
+p {
+    color: #FE3B1F;
+    font-size: 96px;
+    font-weight: 800;
+    font-family: 'Rowdies', sans-serif;
+    text-align: center;
+    line-height: 119px;
+}
