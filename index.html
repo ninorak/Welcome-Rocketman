@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="./css/Rowdies.css">
+    <link rel="stylesheet" type="text/css" href="./css/Montserrat.css">
+    <link rel="stylesheet" type="text/css" href="./css/reset.css">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<title>Welcome Rocketeer</title>
+</head>
+<body>
+    <div class="main-div">
+        <h1>Welcome Rocketeer !</h1>
+        <button id="start-button" class="start">Start Questionnaire</button><br>
+        <a class="submitted" href="SubmittedApplications.html">Submitted Applications</a><br>
+        <img class="rocketman" src="./img/rocketman.png" alt="Rocketman">
+    </div>
+
+    <script type="text/javascript">
+        document.getElementById("start-button").onclick = function () {
+            location.href = "PersonalInformation.html";
+        };
+    </script>
+</body>
+</html>
